@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: List of Toyshost Servers
+title: List of Servers
 icon: fas fa-info-circle
 order: 4
 ---
