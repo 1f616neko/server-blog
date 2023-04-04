@@ -8,7 +8,7 @@ author: emoji
 Serveral changes have done and will be done on Toyshost Services.
 
 ## Domain name migration
-I have created the domain name [1f616emo.xyz](https://1f616emo.xyz) on Feb 2, 2023. Services on TH3 with slowly migrated from thost3.de to 1f616emo.xyz. Redirects will be created from the old to the new domains once the migration was done upon a particular service. The use of the subdomains of thost3.de, if a subdomain of 1f616emo.xyz pointing to the same site exists, is deprecated.
+I have created the domain name [1f616emo.xyz](https://1f616emo.xyz) on Feb 2, 2023. Services on TH3 will be slowly migrated from thost3.de to 1f616emo.xyz. Redirects will be created from the old to the new domains once the migration was done upon a particular service. The use of the subdomains of thost3.de, if a subdomain of 1f616emo.xyz pointing to the same site exists, is deprecated.
 
 > Though will still work within a year, the domain name thost3.de should not be treated as stable. If you have any bookmarks that are pointing to the old domain, please change them as soon as possible.
 {: .prompt-info }
@@ -28,6 +28,9 @@ The following services will be migrated:
 The following services will never be moved and will be kept as-is:
 1. [Chat Relay EMOLWB2](https://t.me/emoji_lwb2_bot) (TH3, managed by [sunafterrain](https://zh.wikipedia.org/wiki/User:Sunafterrain))
 
+> No impacts should be done on frontend user experience except the change of URL. IF you encounter issue, [please contact me](mailto:root@1f616emo.xyz).
+{: .prompt-tip }
+
 ## Drop of some seldom-used services
 The following services will be dropped because of their low demand of use or their failed operation:
 1. SimpleUpload (TH3, <https://simpleupload.thost3.de/>)
@@ -40,3 +43,6 @@ The following services will be dropped because of their low demand of use or the
 8. Minetest C&C Server Website (TH3, <https://mtccs.thost3.de/>)
 9. Telegram Bot Plug (TH3, TG[@emoji_tgplug_bot](https://t.me/emoji_tgplug_bot))
 10. E-Handbook (TH3, Details kept private)
+
+> If you want to back up data on those services, please do so as soon as possible. 
+{: .prompt-warning }
