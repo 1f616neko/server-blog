@@ -12,7 +12,7 @@ order: 4
 * CPU: Intel i5-3210M (4) @ 3.100GHz
 * GPU: Intel 3rd Gen Core processor Graphics Controller
 * RAM: 4 GB (3830 MiB)
-* Operate System: Ubuntu 22.04 LTS
+* Operate System: Arch Linux
 
 ## Toyshost 3 (TH3)
 * Type: Virtual (netcup)
