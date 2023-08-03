@@ -43,7 +43,7 @@ The deployment to TH2 had done on 2023-07-29 UTC+8. The following services are d
 
 1. `main-http`: The NGINX proxy exposing port `443` (TLS-encrypted HTTP)
     * The download site ([`downloads-th2.1f616emo.xyz`](https://downloads-th2.1f616emo.xyz)), as a static site, is directly deployed inside `main-http`.
-    * Different from the PoC server, that port `80` is not exposed. The redirection of insecure HTTP is done on Cloudflare side.
+    * Different from the PoC server, the port `80` is not exposed. The redirection of insecure HTTP is done on Cloudflare side.
 2. `http-admin`: NGINX-powered site serving admin-only tools. With PHP-FPM.
 3. `http-filebrowser`: [filebrowser](https://github.com/filebrowser/filebrowser) instance.
 
